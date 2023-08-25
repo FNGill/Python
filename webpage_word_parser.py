@@ -1,3 +1,5 @@
+### this script can be used to parse the words on a webpage and return the top 10 most used words along with a word count ###
+
 import requests
 import re
 from bs4 import BeautifulSoup
